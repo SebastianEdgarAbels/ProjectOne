@@ -1,0 +1,6 @@
+.header-one {
+    background-image: url(./assets/hiking-fb-cover.jpg);
+    height: 350px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
